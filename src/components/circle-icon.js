@@ -1,6 +1,13 @@
+function refreshPage() {
+  window.location.reload(false);
+}
+
 const CircleIcon = () => {
   return (
-    <div className="circle-base icon-circle">
+    <div 
+      className="circle-base icon-circle"
+      onClick={refreshPage}
+    >
       <svg
         className="icon"
         width="24" 

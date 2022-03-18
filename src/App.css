@@ -94,6 +94,11 @@ body {
   align-items: center;
 }
 
+.icon-circle:hover {
+  background: hsl(193, 38%, 86%);
+  cursor: pointer;
+}
+
 .icon {
   margin: 0 auto;
   display: block;
