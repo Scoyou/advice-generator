@@ -19,9 +19,9 @@ A single page application that displays advice pulled from https://api.advicesli
 
 Users should be able to:
 
-* View an advice quote
-* Refresh the page to get a new quote
-* View the page on mobile or desktop browsers
+* View the optimal layout for the app depending on their device's screen size
+* See hover states for all interactive elements on the page
+* Generate a new piece of advice by clicking the dice icon or refershing the page
 - 
 
 ### Screenshot
