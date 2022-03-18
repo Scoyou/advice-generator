@@ -1,7 +1,7 @@
 import useWindowDimensions from '../useWindowDimensions';
 
 const DividerIcon = () => {
-  const { height, width } = useWindowDimensions();
+  const { width } = useWindowDimensions();
   return (
     <> 
       {
